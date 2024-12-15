@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-GraphQL
+Graphene
+graphene-sqlalchemy
+psycopg2-binary
+python-dotenv
+pytest
+unittest2
+gunicorn
